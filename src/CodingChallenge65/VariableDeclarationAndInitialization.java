@@ -11,6 +11,5 @@ public class VariableDeclarationAndInitialization {
         System.out.println("Product Price $: " + productPrice);
         System.out.println("Is Student Active: " + isStudentActive);
         System.out.println("Grade Level: " + gradeLevel);
-
     }
 }
